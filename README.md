@@ -15,4 +15,4 @@ There are three layers in this project:
 2. Domain Layer - Business Logic
    1. UsesCases, Entities, Repositories; the core logic of the app
 3. Data Layer - Data Access
-   1. DataSources, Mappers, Models; things that interact with the outside world
+   1. DataSources, Mappers, Models; things that interact with the outside world# PLWeather
