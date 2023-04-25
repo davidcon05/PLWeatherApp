@@ -16,3 +16,4 @@ There are three layers in this project:
    1. UsesCases, Entities, Repositories; the core logic of the app
 3. Data Layer - Data Access
    1. DataSources, Mappers, Models; things that interact with the outside world# PLWeather
+# PLWeather
